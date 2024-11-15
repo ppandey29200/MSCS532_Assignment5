@@ -41,14 +41,14 @@ The randomized Quicksort implementation selects a random element of the array as
 The TestQuicksort class generates different test cases (best case, average case, and worst case) and measures the execution time of each sorting algorithm. It includes methods to generate the test cases and measure the execution time of the sorting functions.
 
 ### Example Output
-When you run the script, it will generate and sort the test cases using both deterministic and randomized Quicksort algorithms. It will print the execution time for each test case and sorting algorithm.
-=== Testing Deterministic Quicksort ===
-Best Case Execution Time: 0.001234 seconds
-Average Case Execution Time: 0.002345 seconds
-Worst Case Execution Time: 0.003456 seconds
+When you run the script, it will generate and sort the test cases using both deterministic and randomized Quicksort algorithms. It will print the execution time for each test case and sorting algorithm.<br>
+=== Testing Deterministic Quicksort ===<br>
+Best Case Execution Time: 0.001234 seconds<br>
+Average Case Execution Time: 0.002345 seconds<br>
+Worst Case Execution Time: 0.003456 seconds<br>
 
-=== Testing Randomized Quicksort ===
-Best Case Execution Time: 0.001234 seconds
-Average Case Execution Time: 0.002345 seconds
-Worst Case Execution Time: 0.003456 seconds
+=== Testing Randomized Quicksort ===<br>
+Best Case Execution Time: 0.001234 seconds<br>
+Average Case Execution Time: 0.002345 seconds<br>
+Worst Case Execution Time: 0.003456 seconds<br>
 Adjust the test_size variable in the script to change the size of the test cases.
