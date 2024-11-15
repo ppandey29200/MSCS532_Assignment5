@@ -52,4 +52,4 @@ Best Case Execution Time: 0.001234 seconds<br>
 Average Case Execution Time: 0.002345 seconds<br>
 Worst Case Execution Time: 0.003456 seconds<br>
 
-Adjust the test_size variable in the script to change the size of the test cases.
+Adjust the sizes variable in the script to change the size of the test cases.
